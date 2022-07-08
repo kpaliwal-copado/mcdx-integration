@@ -35,7 +35,7 @@
         },
         {
           "t": "Profile",
-          "n": "Admin",
+          "n": "Analytics Cloud Integration User",
           "m": "force-app/main/default/",
           "c": "",
           "a": "Add",
