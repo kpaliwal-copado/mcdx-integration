@@ -52,6 +52,29 @@
         
       ],
       "Operation": "TRIM"
+    },
+    {
+      "description": "Trim operation: custom field addition",
+      "changes": [
+       
+       {
+          "t": "CustomField",
+          "n": "kompalCustomObj1__c.KompalCustomFIeld2__c",
+          "m": "force-app/main/default/",
+          "c": "",
+          "a": "Add",
+          "j": "{\"filePath\":[\"force-app/main/default/objects/KompalCustomObj1__c/fields/KompalCustomField2__c.field-meta.xml\"]}"
+        },
+        {
+          "t": "Profile",
+          "n": "Admin",
+          "m": "force-app/main/default/",
+          "c": "",
+          "a": "Add",
+          "j": "{\"filePath\":[\"force-app/main/default/profiles/Admin.profile-meta.xml\"]}"
+        }
+      ],
+      "Operation": "TRIM"
     }
   ]
 }
