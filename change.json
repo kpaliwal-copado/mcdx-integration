@@ -59,7 +59,7 @@
        
        {
           "t": "CustomField",
-          "n": "kompalCustomObj1__c.KompalCustomFIeld2__c",
+          "n": "kompalCustomObj1__c.KompalCustomField2__c",
           "m": "force-app/main/default/",
           "c": "",
           "a": "Add",
