@@ -23,24 +23,8 @@
       "Operation": "COMMIT"
     },
     {
-      "description": "Trim operation on : ApexClass",
+      "description": "Trim operation on : CustomLabel",
       "changes": [
-        {
-          "t": "ApexClass",
-          "n": "AppleWatch",
-          "m": "force-app/main/default/",
-          "c": "",
-          "a": "RetrieveOnly",
-          "j": "{\"filePath\":[\"force-app/main/default/classes/AppleWatch.cls\",\"force-app/main/default/classes/AppleWatch.cls-meta.xml\"]}"
-        },
-       {
-          "t": "Profile",
-          "n": "Admin",
-          "m": "force-app/main/default/",
-          "c": "",
-          "a": "Add",
-          "j": "{\"filePath\":[\"force-app/main/default/profiles/Admin.profile-meta.xml\"]}"
-        },
         {
           "t": "CustomObject",
           "n": "KompalCustomObj1__c",
