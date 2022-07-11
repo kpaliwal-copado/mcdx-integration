@@ -15,6 +15,13 @@
         <value>ST1_test dev2 org</value>
     </labels>
     <labels>
+        <fullName>KompalLabel1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KompalLabel1</shortDescription>
+        <value>SKompalLabel1 val</value>
+    </labels>
+    <labels>
         <fullName>ST2_test</fullName>
         <language>en_US</language>
         <protected>false</protected>
