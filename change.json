@@ -18,14 +18,6 @@
           "c": "",
           "a": "Add",
           "j": "{\"filePath\":[\"force-app/main/default/profiles/Admin.profile-meta.xml\"]}"
-        },
-        {
-          "t": "CustomLabel",
-          "n": "KompalLabel2",
-          "m": "force-app/main/default/",
-          "c": "",
-          "a": "Add",
-          "j": "{\"filePath\":[\"force-app/main/default/labels/CustomLabels.labels-meta.xml\"]}"
         }
       ],
       "Operation": "COMMIT"
