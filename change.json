@@ -55,7 +55,7 @@
           "m": "force-app/main/default/",
           "c": "",
           "a": "Add",
-          "j": "{\"filePath\":[\"force-app/main/default/labels/CustomLabels.labels-meta.xml"]}"
+          "j": "{\"filePath\":[\"force-app/main/default/labels/CustomLabels.labels-meta.xml\"]}"
         }
       ]
       "Operation": "TRIM"
