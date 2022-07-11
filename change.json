@@ -34,20 +34,12 @@
       "description": "Trim operation on : CustomLabel",
       "changes": [
         {
-          "t": "CustomObject",
-          "n": "KompalCustomObj1__c",
-          "m": "force-app/main/default/",
-          "c": "",
-          "a": "Add",
-          "j": "{\"filePath\":[\"force-app/main/default/objects/KompalCustomObj1__c\",\"force-app/main/default/objects/KompalCustomObj1__c/KompalCustomObj1__c.object-meta.xml\"]}"
-        },
-        {
           "t": "CustomLabel",
           "n": "KompalLabel1",
           "m": "force-app/main/default/",
           "c": "",
           "a": "Add",
-          "j": "{\"filePath\":[\"force-app/main/default/labels/CustomLabels.labels-meta.xml\"]}"
+          "j": "{\"filePath\":[\"trim-app/main/default/labels/CustomLabels.labels-meta.xml\"]}"
         },
         {
           "t": "CustomLabel",
@@ -55,15 +47,7 @@
           "m": "force-app/main/default/",
           "c": "",
           "a": "Add",
-          "j": "{\"filePath\":[\"force-app/main/default/labels/CustomLabels.labels-meta.xml\"]}"
-        },
-        {
-          "t": "Profile",
-          "n": "Admin",
-          "m": "force-app/main/default/",
-          "c": "",
-          "a": "Add",
-          "j": "{\"filePath\":[\"force-app/main/default/profiles/Admin.profile-meta.xml\"]}"
+          "j": "{\"filePath\":[\"trim-app/main/default/labels/CustomLabels.labels-meta.xml\"]}"
         }
       ],
       "Operation": "TRIM"
