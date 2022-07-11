@@ -35,14 +35,6 @@
       "changes": [
         {
           "t": "CustomLabel",
-          "n": "KompalLabel1",
-          "m": "force-app/main/default/",
-          "c": "",
-          "a": "Add",
-          "j": "{\"filePath\":[\"trim-app/main/default/labels/CustomLabels.labels-meta.xml\"]}"
-        },
-        {
-          "t": "CustomLabel",
           "n": "KompalLabel2FromTrim",
           "m": "force-app/main/default/",
           "c": "",
